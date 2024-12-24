@@ -77,3 +77,5 @@ Next stop is at Ioto, Japan
 Stopped at Ioto, Japan from 13:34 to 13:35
 Next stop is at Saipan, Northern Mariana Islands
 Next stop is at Hagåtña, Guam
+Stopped at Hagåtña, Guam from 13:42 to 13:43
+Next stop is at Yap, Micronesia
