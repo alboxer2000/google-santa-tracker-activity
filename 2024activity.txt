@@ -119,5 +119,7 @@ Next stop is at Alice Springs, Australia
 Stopped at Alice Springs, Australia from 14:22 to 14:23
 Next stop is at Darwin, Australia
 ============
-Inactivity
+Inactivity for 45 minutes
 ============
+Next stop is at Mt. Fuji, Japan
+Next stop is at Tokyo, Japan
