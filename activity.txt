@@ -58,3 +58,5 @@ Stopped at Noumea, New Caledonia from 12:27 to 12:28
 Next stop is at Luganville, Vanuatu
 Stopped at Luganville, Vanuatu from 12:30 to 12:31
 Next stop is at Honiara, Solomon Islands
+Stopped at Honiara, Solomon Islands from 12:38 to 12:39
+Next stop is at Gizo, Solomon Islands
