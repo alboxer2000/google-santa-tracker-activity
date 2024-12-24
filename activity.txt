@@ -1,4 +1,6 @@
+========================
 Note: Time zone is UTC+1
+========================
 Departed at 10:59
 Next stop is at Provideniya, Russia
 4K gifts reached at 11:02
@@ -23,3 +25,5 @@ Stopped at Petropavlovsk-Kamchatskiy, Russia from 11:20 to 11:21
 2M gifts reached at 11:21
 2.5M gifts reached at 11:21
 Next stop is at Bikini Atoll, Marshall Islands
+Stopped at Bikini Atoll, Marshall Islands from 11:26 to 11:27
+Next stop is at Majuro Atoll, Marshall Islands
