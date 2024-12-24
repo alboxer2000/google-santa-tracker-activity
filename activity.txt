@@ -60,3 +60,6 @@ Stopped at Luganville, Vanuatu from 12:30 to 12:31
 Next stop is at Honiara, Solomon Islands
 Stopped at Honiara, Solomon Islands from 12:38 to 12:39
 Next stop is at Gizo, Solomon Islands
+===========
+Inactivity!
+===========
