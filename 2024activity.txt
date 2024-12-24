@@ -138,3 +138,8 @@ Next stop is at Beijing, China
 Stopped at Beijing, China from 15:48 to 15:49
 Next stop is atcXi'an, China
 Stopped at Xi'an, China from 15:52 to 15:53
+===========
+Inactivity for 10 minutes
+===========
+Next stop is at Kowloon, Hong Kong
+Next stop is Taipei, Taiwan
