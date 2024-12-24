@@ -153,3 +153,6 @@ Stopped at Cebu, Philippines from 16:16 to 16:17
 Next stop is at Muara, Brunei
 Stopped at Muara, Brunei from 16:18 to 16:19
 Next stop is at Bintulu, Malaysia
+Stopped at Bintulu, Malaysia from 16:20 to 16:21
+Next stop is at Denpasar, Indonesia
+Stopped at Denpasar, Indonesia from 16:23 to 16:24
