@@ -49,3 +49,5 @@ Inactivity for 18 minutes
 Next stop is at Christchurh, New Zealand
 Stopped at Christchurh, New Zealand
 Next stop is at McMurdo Station, Antartica
+Stopped at McMurdo Station, Antartica from 12:12 to 12:13
+Next stop is at Queenstown, New Zealand
