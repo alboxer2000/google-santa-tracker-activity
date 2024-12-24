@@ -42,3 +42,9 @@ Next stop is at Apia, Samoa
 Stopped at Apia, Samoa from 11:39 to 11:40
 Next stop is at Suva, Fiji
 Stopped at Suva, Fiji from 11:41 to 11:42
+=========================
+Inactivity for 18 minutes
+=========================
+Next stop is at Christchurh, New Zealand
+Stopped at Christchurh, New Zealand
+Next stop is at McMurdo Station, Antartica
