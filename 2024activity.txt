@@ -65,3 +65,5 @@ Inactivity for 30 minutes
 ===========
 Stopped at Onekotan, Kuri Islands from 13:02 to 13:03
 Next stop at Magadan, Russia
+Stopped at Magadan, Russia from 13:09 to 13:10
+Next stop at Yuzhno-Sakhalinsk, Sakhalin
