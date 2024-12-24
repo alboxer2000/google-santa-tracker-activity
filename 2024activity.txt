@@ -132,3 +132,8 @@ Stopped at Pyongyang, North Korea from 15:16 to 15:17
 Next stop is at Yakutsk, Russia
 Next stop is at Irkutsk, Russia
 Stopped at Irkutsk, Russia from 15:30 to 15:31
+Next stop is at Hohhot, China
+Stopped at Hohhot, China from 15:44 to 15:45
+Next stop is at Beijing, China
+Stopped at Beijing, China from 15:48 to 15:49
+Next stop is at Xi'an, China
