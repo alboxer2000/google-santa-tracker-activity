@@ -123,3 +123,12 @@ Inactivity for 45 minutes
 ============
 Next stop is at Mt. Fuji, Japan
 Next stop is at Tokyo, Japan
+Stopped at Niigata, Japan
+============
+Inactivity for 15 minutes
+============
+Next stop is at Pyongyang, North Korea
+Stopped at Pyongyang, North Korea from 15:16 to 15:17
+Next stop is at Yakutsk, Russia
+Next stop is at Irkutsk, Russia
+Stopped at Irkutsk, Russia from 15:30 to 15:31
