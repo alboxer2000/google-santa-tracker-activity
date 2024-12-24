@@ -89,3 +89,5 @@ Stopped at Port Moresby, Papua New Guinea from 13:53 to 13:54
 Next stop is at Cairns, Australia
 Stopped at Cairns, Australia from 13:55 to 13:56
 Next stop is at Townsville, Australia
+Stopped at Townsville, Australia from 13:58 to 13:59
+Next stop is at Mackay, Australia
