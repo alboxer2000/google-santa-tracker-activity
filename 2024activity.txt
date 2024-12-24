@@ -118,3 +118,6 @@ Stopped at Adelaide, Australia from 14:19 to 14:20
 Next stop is at Alice Springs, Australia
 Stopped at Alice Springs, Australia from 14:22 to 14:23
 Next stop is at Darwin, Australia
+============
+Inactivity
+============
