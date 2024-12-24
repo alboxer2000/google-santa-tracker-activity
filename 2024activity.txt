@@ -143,3 +143,5 @@ Inactivity for 10 minutes
 ===========
 Next stop is at Kowloon, Hong Kong
 Next stop is Taipei, Taiwan
+Stopped at Taipei, Taiwan from 16:10 to 16:11
+Next stop is at Baguio, Philippines
