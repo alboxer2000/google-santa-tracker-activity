@@ -136,4 +136,5 @@ Next stop is at Hohhot, China
 Stopped at Hohhot, China from 15:44 to 15:45
 Next stop is at Beijing, China
 Stopped at Beijing, China from 15:48 to 15:49
-Next stop is at Xi'an, China
+Next stop is atcXi'an, China
+Stopped at Xi'an, China from 15:52 to 15:53
